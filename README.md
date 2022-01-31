@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiggNewton17 - aka T.J. Higgins. A couple of years ago, I was working as an aircaft mechanic. I started learning web-design and development around that time and have been hooked ever since. Nowadays, I work as a Search Engine Optimization Specialist whilst pursuing a front end dev position. 
+- 👋 Hi, I’m @HiggNewton17 - aka T.J. Higgins. A couple of years ago, I was working as an aircaft mechanic. I started learning web-design and development around that time and have been hooked ever since. Nowadays, I work as a Search Engine Optimization Specialist whilst pursuing a front end dev position and building websites on the side through DirtyDigital.dev. 
 
 - 👀 I’m extremely interested in alternative technology and hope to launch my own open source project very soon!
 
@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on any beginner-friendly React applications and a React app I plan to make open source soon!
 
-- 📫 You can e-mail me: tj@higginswebsolutions.com
+- 📫 You can e-mail me: tj@dirtydigital.dev
 
 <!---
 HiggNewton17/HiggNewton17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
